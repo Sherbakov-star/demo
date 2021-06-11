@@ -1,0 +1,4 @@
+alert('Привет!');
+function calc() {
+
+}
